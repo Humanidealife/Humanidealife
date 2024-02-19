@@ -42,7 +42,7 @@ Je m'efforce de concevoir des expériences en ligne qui fusionnent simplicité e
 
 ## Contact
 
-- 📧 <a href="wangqianlf@live.com" target="_blank">Adresse e-mail</a>
+- 📧 Adresse e-mail : wangqianlf@live.com
 - 💼 <a href="https://www.linkedin.com/in/wang-qian-" target="_blank">Profil LinkedIn</a>
 - 🌐 <a href="https://www.wangqian.pro" target="_blank">Portfolio en ligne</a>
 
