@@ -46,6 +46,16 @@ Je m'efforce de concevoir des expériences en ligne qui fusionnent simplicité e
 - **Lien vers le projet :**
   - <a href="https://github.com/Humanidealife/goldfishes_app" target="_blank">Voici le code open source sur Github</a>
 
+  ### [3. Jeu Snack]
+
+- **Description :** Jeu rétro contruit avec Javascript
+- **Technologies utilisées :**
+  - Javascript
+  - HTML
+  - VSCode
+- **Lien vers le projet :**
+  - <a href="https://github.com/Humanidealife/snack-js" target="_blank">Voici le code open source sur Github</a>
+
 ## Expérience professionnelle
 
 ### [Nom de l'Entreprise / Projet]
