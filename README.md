@@ -18,11 +18,20 @@ Je m'efforce de concevoir des expériences en ligne qui fusionnent simplicité e
 
 ### [ParkBuddies]
 
-- **Description :** Il s'agit d'une application à destination des parents qui ont des enfants, agés 1 à 10 ans. Son but est de répondre à une difficulté commune pour les parents : ne pas être seuls lorsqu'ils accompagnent leurs enfants au parc. Ils peuvent y rencontrer d'autres familles et se donner rendez-vous.
-- **Technologies utilisées :** Ruby on Rails, JavaScript, PostreSQL, Mapbox, Cloudinary, Heroku, Figma
-- **Lien vers le projet :** <a href="https://www.parkbuddies.ch/" target="_blank">Lien du site ParkBuddies</a>
-<a href="https://www.youtube.com/watch?v=a4fF_FOOBnE&ab_channel=LeWagon" target="_blank">Vidéo présentation du projet sur Youtube</a>
-<a href="https://github.com/Humanidealife/ParkBuddies" target="_blank">Code open source sur Github</a>
+- **Description :**
+  Il s'agit d'une application à destination des parents qui ont des enfants, agés 1 à 10 ans. Son but est de répondre à une difficulté commune pour les parents : ne pas être seuls lorsqu'ils accompagnent leurs enfants au parc. Ils peuvent y rencontrer d'autres familles et se donner rendez-vous.
+- **Technologies utilisées :**
+  - Ruby on Rails
+  - JavaScript
+  - PostreSQL
+  - Mapbox
+  - Cloudinary
+  - Heroku
+  - Figma
+- **Lien vers le projet :**
+  - <a href="https://www.parkbuddies.ch/" target="_blank">Lien du site ParkBuddies</a>
+  - <a href="https://www.youtube.com/watch?v=a4fF_FOOBnE&ab_channel=LeWagon" target="_blank">Vidéo présentation du projet sur Youtube</a>
+  - <a href="https://github.com/Humanidealife/ParkBuddies" target="_blank">Code open source sur Github</a>
 
 ### [Nom du Projet 2]
 
