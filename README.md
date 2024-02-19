@@ -56,18 +56,6 @@ Je m'efforce de concevoir des expériences en ligne qui fusionnent simplicité e
 - **Lien vers le projet :**
   - <a href="https://github.com/Humanidealife/snack-js" target="_blank">Voici le code open source sur Github</a>
 
-## Expérience professionnelle
-
-### [Nom de l'Entreprise / Projet]
-- **Poste occupé :** [Votre poste]
-- **Période :** [Mois/Année - Mois/Année]
-- **Description :** Brève description de vos responsabilités et réalisations
-
-### [Nom de l'Entreprise / Projet]
-- **Poste occupé :** [Votre poste]
-- **Période :** [Mois/Année - Mois/Année]
-- **Description :** Brève description de vos responsabilités et réalisations
-
 ## Contact
 
 - 📧 Adresse e-mail : wangqianlf@live.com
