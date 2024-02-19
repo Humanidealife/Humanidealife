@@ -16,7 +16,7 @@ Je m'efforce de concevoir des expériences en ligne qui fusionnent simplicité e
 
 ## Projets récents
 
-### [ParkBuddies]
+### [1. ParkBuddies]
 
 - **Description :**
   Il s'agit d'une application à destination des parents qui ont des enfants, agés 1 à 10 ans. Son but est de répondre à une difficulté commune pour les parents : ne pas être seuls lorsqu'ils accompagnent leurs enfants au parc. Ils peuvent y rencontrer d'autres familles et se donner rendez-vous.
@@ -33,11 +33,18 @@ Je m'efforce de concevoir des expériences en ligne qui fusionnent simplicité e
   - <a href="https://www.youtube.com/watch?v=a4fF_FOOBnE&ab_channel=LeWagon" target="_blank">Vidéo présentation du projet sur Youtube</a>
   - <a href="https://github.com/Humanidealife/ParkBuddies" target="_blank">Code open source sur Github</a>
 
-### [Nom du Projet 2]
+### [2. PoissonBnB]
 
-- **Description :** Site web personnel pour [brève description du projet]
-- **Technologies utilisées :** Ruby on Rails, JavaScript,HTML, CSS, SCSS, Bootstrap, Heroku, API, Figma
-- **Lien vers le projet :** [Lien vers le dépôt GitHub ou le site web du projet]
+- **Description :** Un site inspiré d'Airbnb, mais au lieu de proposer la location de logements, il offre la possibilité de louer des poissons, incluant une gamme variée de créatures marines, qu'elles proviennent du monde réel ou des dessins animés. L'objectif principal de cette plateforme est de permettre aux utilisateurs de découvrir et de louer des poissons disponibles à la location partout dans le monde, offrant ainsi une expérience unique et immersive pour tous les passionnés de vie aquatique.
+- **Technologies utilisées :**
+  - Ruby on rails
+  - Javascript
+  - PostreSQL
+  - Mapbox
+  - Cloudinary
+  - Datepicker
+- **Lien vers le projet :**
+  - <a href="https://github.com/Humanidealife/goldfishes_app" target="_blank">Voici le code open source sur Github</a>
 
 ## Expérience professionnelle
 
