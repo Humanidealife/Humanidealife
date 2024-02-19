@@ -1,6 +1,6 @@
 
 # WANG Qian 
-Développeur Full Stack junior
+Développeur Full Stack junior - 🌐 <a href="https://www.wangqian.pro" target="_blank">Portfolio</a>
 
 ## À propos de moi 👋
 
