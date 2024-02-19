@@ -42,9 +42,10 @@ Je m'efforce de concevoir des expériences en ligne qui fusionnent simplicité e
 
 ## Contact
 
-- 📧 [Adresse e-mail](wangqianlf@live.com)
-- 💼 [Profil LinkedIn](https://www.linkedin.com/in/wang-qian-/){:target="_blank"}
-- 🌐 [Portfolio en ligne](https://www.wangqian.pro/)
+- 📧 <a href="wangqianlf@live.com" target="_blank">Adresse e-mail</a>
+- 💼 <a href="https://www.linkedin.com/in/wang-qian-" target="_blank">Profil LinkedIn</a>
+- 🌐 <a href="https://www.wangqian.pro" target="_blank">Portfolio en ligne</a>
+
 
 Je suis à la recherche de nouvelles opportunités passionnantes dans le domaine du développement web. N'hésitez pas à me contacter pour discuter de collaborations potentielles, de projets ou pour en savoir plus sur mon parcours professionnel !
 
