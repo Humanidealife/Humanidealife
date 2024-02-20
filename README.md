@@ -9,7 +9,7 @@ Ma vision met en avant l'importance de comprendre profondément les besoins des 
 Je m'efforce de concevoir des expériences en ligne qui fusionnent simplicité et accessibilité, où chaque ligne de code incarne une approche bienveillante et réfléchie.
 
 - 🎓 Diplômé en Web Development Bootcamp du Wagon <img alt="un wagon blanc sur un fond rouge" src="https://d26jy9fbi4q9wx.cloudfront.net/assets/logo-ae2beeecce25d711f577b08deb9adfc6c02b673ed106b8d6c3da0f1721d9da33.svg" width="20" height="20">
-- 💻 Langages : **Ruby on Rails, JavaScript, PostgreSQL, HTML, CSS, SCSS, Bootstrap, SQL, JSON, XML, Astro**
+- 💻 Langages : **Ruby on Rails, JavaScript, C#, PostgreSQL, HTML, CSS, SCSS, Bootstrap, SQL, JSON, XML, Astro**
 - 🛠️ Outils techniques : **Ubuntu, Heroku, Netlify, Figma, Hotjar, API, Cloudinary, Mapbox**
 - 🌱 Toujours en apprentissage et ouvert à l'acquisition de nouvelles compétences
 - 👩‍💻 Expérience dans la création d'applications web et de sites dynamiques
