@@ -63,7 +63,7 @@ Je m'efforce de concevoir des expériences en ligne qui fusionnent simplicité e
 - 🌐 <a href="https://www.wangqian.pro" target="_blank">Portfolio en ligne</a>
 
 
-Je suis à la recherche de nouvelles opportunités passionnantes dans le domaine du développement web. N'hésitez pas à me contacter pour discuter de collaborations potentielles, de projets ou pour en savoir plus sur mon parcours professionnel !
+Je suis à la recherche de nouvelles opportunités passionnantes dans le domaine du développement web et application. N'hésitez pas à me contacter pour discuter de collaborations potentielles, de projets ou pour en savoir plus sur mon parcours professionnel !
 
 
 
