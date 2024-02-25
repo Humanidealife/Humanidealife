@@ -4,7 +4,7 @@ Développeur Full Stack junior - 🌐 <a href="https://www.wangqian.pro" target=
 
 ## À propos de moi 👋
 
-Bonjour ! En tant que développeur web junior, mon engagement se nourrit de la curiosité incessante pour de nouvelles compétences techniques.
+Bonjour ! En tant que développeur full-stack web et application junior, mon engagement se nourrit de la curiosité incessante pour de nouvelles compétences techniques.
 Ma vision met en avant l'importance de comprendre profondément les besoins des utilisateurs, dans un esprit de connexion humaine.
 Je m'efforce de concevoir des expériences en ligne qui fusionnent simplicité et accessibilité, où chaque ligne de code incarne une approche bienveillante et réfléchie.
 
