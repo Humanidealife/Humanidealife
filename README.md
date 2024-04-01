@@ -28,8 +28,10 @@ Je m'efforce de concevoir des expériences en ligne qui fusionnent simplicité e
   - Cloudinary
   - Heroku
   - Figma
-- **Lien vers le projet :**
-<!--  - <a href="https://www.parkbuddies.ch/" target="_blank">Lien du site ParkBuddies</a>-->
+<!--
+  - **Lien vers le projet :**
+  - <a href="https://www.parkbuddies.ch/" target="_blank">Lien du site ParkBuddies</a>
+-->
   - <a href="https://www.youtube.com/watch?v=a4fF_FOOBnE&ab_channel=LeWagon" target="_blank">Vidéo présentation du projet sur Youtube</a>
   - <a href="https://github.com/Humanidealife/ParkBuddies" target="_blank">Code open source sur Github</a>
 
