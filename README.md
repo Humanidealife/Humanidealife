@@ -28,14 +28,28 @@ Je m'efforce de concevoir des expériences en ligne qui fusionnent simplicité e
   - Cloudinary
   - Heroku
   - Figma
-<!--
+
   - **Lien vers le projet :**
-  - <a href="https://www.parkbuddies.ch/" target="_blank">Lien du site ParkBuddies</a>
+<!--  - <a href="https://www.parkbuddies.ch/" target="_blank">Lien du site ParkBuddies</a>
 -->
   - <a href="https://www.youtube.com/watch?v=a4fF_FOOBnE&ab_channel=LeWagon" target="_blank">Vidéo présentation du projet sur Youtube</a>
   - <a href="https://github.com/Humanidealife/ParkBuddies" target="_blank">Code open source sur Github</a>
 
-### [2. PoissonBnB]
+### [2. Gestion des contacts]
+
+- **Description :** Une application qui fait la gestion des contacts.
+- **Technologies utilisées :**
+  - C#
+  - .Net
+  - Json
+  - Visual Studio
+  - 
+- **Lien vers le projet :**
+  - <a href="/downloads/gestion_des_contacts.zip" download>Lien pour télécharger cette application</a>
+  - <a href="https://github.com/Humanidealife/Gestion_de_contacts" target="_blank">Voici le code open source sur Github</a>
+
+
+### [3. PoissonBnB]
 
 - **Description :** Un site inspiré d'Airbnb, mais au lieu de proposer la location de logements, il offre la possibilité de louer des poissons, incluant une gamme variée de créatures marines, qu'elles proviennent du monde réel ou des dessins animés. L'objectif principal de cette plateforme est de permettre aux utilisateurs de découvrir et de louer des poissons disponibles à la location partout dans le monde, offrant ainsi une expérience unique et immersive pour tous les passionnés de vie aquatique.
 - **Technologies utilisées :**
@@ -48,7 +62,7 @@ Je m'efforce de concevoir des expériences en ligne qui fusionnent simplicité e
 - **Lien vers le projet :**
   - <a href="https://github.com/Humanidealife/goldfishes_app" target="_blank">Voici le code open source sur Github</a>
 
-  ### [3. Jeu Snack]
+  ### [4. Jeu Snack]
 
 - **Description :** Jeu rétro contruit avec Javascript
 - **Technologies utilisées :**
