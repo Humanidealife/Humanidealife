@@ -43,7 +43,7 @@ Je m'efforce de concevoir des expériences en ligne qui fusionnent simplicité e
   - .Net
   - Json
   - Visual Studio
-  - 
+
 - **Lien vers le projet :**
   - <a href="/downloads/gestion_des_contacts.zip" download>Lien pour télécharger cette application</a>
   - <a href="https://github.com/Humanidealife/Gestion_de_contacts" target="_blank">Voici le code open source sur Github</a>
