@@ -29,7 +29,7 @@ Je m'efforce de concevoir des expériences en ligne qui fusionnent simplicité e
   - Heroku
   - Figma
 
-  - **Lien vers le projet :**
+- **Lien vers le projet :**
 <!--  - <a href="https://www.parkbuddies.ch/" target="_blank">Lien du site ParkBuddies</a>
 -->
   - <a href="https://www.youtube.com/watch?v=a4fF_FOOBnE&ab_channel=LeWagon" target="_blank">Vidéo présentation du projet sur Youtube</a>
@@ -45,7 +45,7 @@ Je m'efforce de concevoir des expériences en ligne qui fusionnent simplicité e
   - Visual Studio
 
 - **Lien vers le projet :**
-  - <a href="/downloads/gestion_des_contacts.zip" download>Lien pour télécharger cette application</a>
+  - <a href="https://wangqian.pro/travail/gestiondescontacts/" target="_blank">Page présentation et téléchagement de cette application</a>
   - <a href="https://github.com/Humanidealife/Gestion_de_contacts" target="_blank">Voici le code open source sur Github</a>
 
 
