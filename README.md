@@ -9,14 +9,27 @@ Ma vision met en avant l'importance de comprendre profondément les besoins des 
 Je m'efforce de concevoir des expériences en ligne qui fusionnent simplicité et accessibilité, où chaque ligne de code incarne une approche bienveillante et réfléchie.
 
 - 🎓 Diplômé en Web Development Bootcamp du Wagon(Bac+4) <img alt="un wagon blanc sur un fond rouge" src="https://d26jy9fbi4q9wx.cloudfront.net/assets/logo-ae2beeecce25d711f577b08deb9adfc6c02b673ed106b8d6c3da0f1721d9da33.svg" width="20" height="20">
-- 💻 Langages : **Ruby on Rails, JavaScript, SQL, C#, HTML, CSS, SCSS, XML**
+- 💻 Langages : **Ruby on Rails, C#, JavaScript, SQL, HTML, CSS, SCSS, XML**
 - 🛠️ Outils techniques : **Ubuntu, PostgreSQL, Bootstrap, JSON, Heroku, Netlify, Astro, Figma, Hotjar, APIs, Cloudinary, Mapbox**
 - 🌱 Toujours en apprentissage et ouvert à l'acquisition de nouvelles compétences
 - 👩‍💻 Expérience dans la création d'applications web et de sites dynamiques
 
 ## Projets récents
 
-### [1. ParkBuddies]
+### [1. Gestion des contacts]
+
+- **Description :** Une application qui fait la gestion des contacts.
+- **Technologies utilisées :**
+  - C#
+  - .Net
+  - Json
+  - Visual Studio
+
+- **Lien vers le projet :**
+  - <a href="https://wangqian.pro/travail/gestiondescontacts/" target="_blank">Page présentation et téléchagement de cette application</a>
+  - <a href="https://github.com/Humanidealife/Gestion_de_contacts" target="_blank">Voici le code open source sur Github</a>
+
+### [2. ParkBuddies]
 
 - **Description :**
   Il s'agit d'une application destinée aux parents ayant des enfants âgés de 1 à 10 ans. Son but est de répondre à une difficulté commune pour les parents : ne pas se retrouver seuls lorsqu'ils accompagnent leurs enfants au parc. Ils peuvent y rencontrer d'autres familles et se donner des rendez-vous.
@@ -34,20 +47,6 @@ Je m'efforce de concevoir des expériences en ligne qui fusionnent simplicité e
 -->
   - <a href="https://www.youtube.com/watch?v=a4fF_FOOBnE&ab_channel=LeWagon" target="_blank">Vidéo présentation du projet sur Youtube</a>
   - <a href="https://github.com/Humanidealife/ParkBuddies" target="_blank">Code open source sur Github</a>
-
-### [2. Gestion des contacts]
-
-- **Description :** Une application qui fait la gestion des contacts.
-- **Technologies utilisées :**
-  - C#
-  - .Net
-  - Json
-  - Visual Studio
-
-- **Lien vers le projet :**
-  - <a href="https://wangqian.pro/travail/gestiondescontacts/" target="_blank">Page présentation et téléchagement de cette application</a>
-  - <a href="https://github.com/Humanidealife/Gestion_de_contacts" target="_blank">Voici le code open source sur Github</a>
-
 
 ### [3. PoissonBnB]
 
