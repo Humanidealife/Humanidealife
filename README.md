@@ -12,7 +12,7 @@ Je m'efforce de concevoir des expériences en ligne qui fusionnent simplicité e
 - 💻 Langages : **Ruby on Rails, Java, C#, JavaScript, SQL, HTML, CSS, SCSS, XML**
 - 🛠️ Outils techniques : **Maven, Tomcat, PostgreSQL, Bootstrap, JSON, Heroku, Netlify, Astro, Figma, Hotjar, APIs, Cloudinary, Mapbox**
 - 🌱 Toujours en apprentissage et ouvert à l'acquisition de nouvelles compétences
-- 👩‍💻 Expérience dans la création d'applications web et de sites dynamiques
+- 👩‍💻 Expériences dans la création d'applications web et de sites dynamiques
 
 ## Projets récents
 
