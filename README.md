@@ -10,7 +10,7 @@ Je m'efforce de concevoir des expériences en ligne qui fusionnent simplicité e
 
 - 🎓 Diplômé en Web Development Bootcamp du Wagon (Bac+4) <img alt="un wagon blanc sur un fond rouge" src="https://d26jy9fbi4q9wx.cloudfront.net/assets/logo-ae2beeecce25d711f577b08deb9adfc6c02b673ed106b8d6c3da0f1721d9da33.svg" width="20" height="20">
 - 💻 Langages : **Ruby on Rails, Java, C#, JavaScript, SQL, HTML, CSS, SCSS, XML**
-- 🛠️ Outils techniques : **Maven, Tomcat, PostgreSQL, Bootstrap, JSON, Heroku, Netlify, Astro, Figma, Hotjar, APIs, Cloudinary, Mapbox**
+- 🛠️ Outils techniques : **Jakarta EE, Maven, Servlet, Tomcat, PostgreSQL, Bootstrap, JSON, Heroku, Netlify, Astro, Figma, Hotjar, APIs, Cloudinary, Mapbox**
 - 🌱 Toujours en apprentissage et ouvert à l'acquisition de nouvelles compétences
 - 👩‍💻 Expériences dans la création d'applications web et de sites dynamiques
 
