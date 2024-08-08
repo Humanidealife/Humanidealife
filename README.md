@@ -22,7 +22,25 @@ Applications Logicielles des SI (Bac+5) **École d'ingénieurs CESI**<img alt="C
 
 ## Projets récents
 
-### [1. Gestion des contacts]
+### [1. Films et musiques]
+
+- **Description :** Une plateforme de streaming en application web
+- **Technologies utilisées :**
+  - Java
+  - Jakarta EE
+  - Maven
+  - Servlet
+  - JSP
+  - JSTL
+  - Tomcat
+  - NetBeans
+
+- **Liens vers le projet :**
+  - <a href="https://github.com/Humanidealife/frontoffice" target="_blank">Front-office : module d'utilisateur.</a>
+  - <a href="https://github.com/Humanidealife/backoffice" target="_blank">Back-office : module d'administrateur.</a>
+  - <a href="https://github.com/Humanidealife/core" target="_blank">Module Core : module d'éléments de base.</a>
+
+### [2. Gestion des contacts]
 
 - **Description :** Une application qui fait la gestion des contacts.
 - **Technologies utilisées :**
@@ -31,11 +49,11 @@ Applications Logicielles des SI (Bac+5) **École d'ingénieurs CESI**<img alt="C
   - Json
   - Visual Studio
 
-- **Lien vers le projet :**
+- **Liens vers le projet :**
   - <a href="https://wangqian.pro/travail/gestiondescontacts/" target="_blank">Page présentation et téléchagement de cette application</a>
   - <a href="https://github.com/Humanidealife/Gestion_de_contacts" target="_blank">Voici le code open source sur Github</a>
 
-### [2. ParkBuddies]
+### [3. ParkBuddies]
 
 - **Description :**
   Il s'agit d'une application destinée aux parents ayant des enfants âgés de 1 à 10 ans. Son but est de répondre à une difficulté commune pour les parents : ne pas se retrouver seuls lorsqu'ils accompagnent leurs enfants au parc. Ils peuvent y rencontrer d'autres familles et se donner des rendez-vous.
@@ -48,13 +66,13 @@ Applications Logicielles des SI (Bac+5) **École d'ingénieurs CESI**<img alt="C
   - Heroku
   - Figma
 
-- **Lien vers le projet :**
+- **Liens vers le projet :**
   - <a href="https://parkbuddies-2e1117193c89.herokuapp.com/" target="_blank">Lien du site ParkBuddies</a>
   - <a href="https://www.youtube.com/watch?v=a4fF_FOOBnE&ab_channel=LeWagon" target="_blank">Vidéo présentation du projet sur Youtube</a>
   - <a href="https://github.com/Humanidealife/ParkBuddies" target="_blank">Code open source sur Github</a>
 
 
-### [3. PoissonBnB]
+### [4. PoissonBnB]
 
 - **Description :** Un site inspiré d'Airbnb, mais au lieu de proposer la location de logements, il offre la possibilité de louer des poissons, incluant une gamme variée de créatures marines, qu'elles proviennent du monde réel ou des dessins animés. L'objectif principal de cette plateforme est de permettre aux utilisateurs de découvrir et de louer des poissons disponibles à la location partout dans le monde, offrant ainsi une expérience unique et immersive pour tous les passionnés de vie aquatique.
 - **Technologies utilisées :**
@@ -67,7 +85,7 @@ Applications Logicielles des SI (Bac+5) **École d'ingénieurs CESI**<img alt="C
 - **Lien vers le projet :**
   - <a href="https://github.com/Humanidealife/goldfishes_app" target="_blank">Voici le code open source sur Github</a>
 
-  ### [4. Jeu Snack]
+  ### [5. Jeu Snack]
 
 - **Description :** Jeu rétro contruit avec Javascript
 - **Technologies utilisées :**
