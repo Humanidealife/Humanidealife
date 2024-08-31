@@ -33,6 +33,7 @@ Applications Logicielles des SI (Bac+5) **École d'ingénieurs CESI**<img alt="C
   - JSP
   - JSTL
   - jQuery
+  - Ajax
   - Tomcat
   - NetBeans
 
