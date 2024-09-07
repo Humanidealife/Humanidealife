@@ -16,7 +16,7 @@ Applications Logicielles des SI (Bac+5) **École d'ingénieurs CESI**<img alt="C
 - 💻 Compétences :
   - Front-end : **JavaScript, HTML, CSS, Bootstrap, SCSS, JSON**
   - Back-end : **Ruby, C#, Java, Jakarta EE, Servlet, Maven, JSP, JSTL, SQL, PostgreSQL, XML, API, Node.js, Astro**
-- 🛠️ Outils techniques : **VSCode, Visual Studio, IntelliJ, NetBeans, Git, GitHub, Tomcat, Heroku, Netlify, Figma, Cloudinary, Mapbox**
+- 🛠️ Outils techniques : **VSCode, Visual Studio, IntelliJ, NetBeans, Git, GitHub, GitLab, Tomcat, Heroku, Netlify, Figma, Cloudinary, Mapbox**
 - 🌱 Toujours en apprentissage et ouvert à l'acquisition de nouvelles compétences
 - 👩‍💻 Expériences dans la création d'applications web et de sites dynamiques
 
