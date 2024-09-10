@@ -14,7 +14,7 @@ Je m'efforce de concevoir des expériences en ligne qui fusionnent simplicité e
 Applications Logicielles des SI (Bac+5) **École d'ingénieurs CESI**<img alt="CESI" src="https://upload.wikimedia.org/wikipedia/fr/e/ef/Logo_cesi_2022.png" width="25" height="25">
   - Diplômé en Concepteur - développeur d'applications web (Bac+3) **Le Wagon** <img alt="un wagon blanc sur un fond rouge" src="https://d26jy9fbi4q9wx.cloudfront.net/assets/logo-ae2beeecce25d711f577b08deb9adfc6c02b673ed106b8d6c3da0f1721d9da33.svg" width="25" height="25">
 - 💻 Compétences :
-  - Front-end : **JavaScript, HTML, CSS, Bootstrap, SCSS, JSON, React**
+  - Front-end : **JavaScript, HTML, CSS, Bootstrap, SCSS, JSON, React, Next.js**
   - Back-end : **Ruby, C#, Java, Jakarta EE, Servlet, Maven, JSP, JSTL, SQL, PostgreSQL, XML, API, Node.js, TypeScript, Astro**
 - 🛠️ Outils techniques : **VSCode, Visual Studio, IntelliJ, NetBeans, Git, GitHub, GitLab, Tomcat, Heroku, Netlify, Figma, Cloudinary, Mapbox**
 - 🌱 Toujours en apprentissage et ouvert à l'acquisition de nouvelles compétences
