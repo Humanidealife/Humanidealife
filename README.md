@@ -2,7 +2,7 @@
 # Qian WANG
 Développeur Full-stack junior - 🌐 <a href="https://www.wangqian.pro" target="_blank">Portfolio</a>
 
-Je suis à la recherche d'une entreprise d'accueil d'alternance dans le domaine du développement web et application. N'hésitez pas à me contacter pour discuter de collaborations potentielles, de projets ou pour en savoir plus sur mon parcours professionnel !
+Je suis à la recherche d'un emploi dans le domaine du développement web et application. N'hésitez pas à me contacter pour discuter de collaborations potentielles, de projets ou pour en savoir plus sur mon parcours professionnel !
 ## À propos de moi 👋
 
 Bonjour ! En tant que développeur web et application junior, mon engagement se nourrit de la curiosité incessante pour de nouvelles compétences techniques.
