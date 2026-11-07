@@ -5,7 +5,7 @@ Développeur Full-stack junior - 🌐 <a href="https://www.wangqian.pro" target=
 Je suis à la recherche d'un emploi dans le domaine du développement web et application. N'hésitez pas à me contacter pour discuter de collaborations potentielles, de projets ou pour en savoir plus sur mon parcours professionnel !
 ## À propos de moi 👋
 
-Bonjour ! En tant que développeur web et application junior, mon engagement se nourrit de la curiosité incessante pour de nouvelles compétences techniques.
+Bonjour ! En tant que développeur web et application, mon engagement se nourrit de la curiosité incessante pour de nouvelles compétences techniques.
 Ma vision met en avant l'importance de comprendre profondément les besoins des utilisateurs, dans un esprit de connexion humaine.
 Je m'efforce de concevoir des expériences en ligne qui fusionnent simplicité et accessibilité, où chaque ligne de code incarne une approche bienveillante et réfléchie.
 
