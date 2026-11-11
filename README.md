@@ -69,7 +69,6 @@ Applications Logicielles des SI (Bac+5) **École d'ingénieurs CESI**<img alt="C
   - Figma
 
 - **Liens vers le projet :**
-  - <a href="https://parkbuddies-2e1117193c89.herokuapp.com/" target="_blank">Lien du site ParkBuddies</a>
   - <a href="https://www.youtube.com/watch?v=a4fF_FOOBnE&ab_channel=LeWagon" target="_blank">Vidéo présentation du projet sur Youtube</a>
   - <a href="https://github.com/Humanidealife/ParkBuddies" target="_blank">Code open source sur Github</a>
 
