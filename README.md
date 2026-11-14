@@ -86,16 +86,6 @@ Applications Logicielles des SI (Bac+5) **École d'ingénieurs CESI**<img alt="C
 - **Lien vers le projet :**
   - <a href="https://github.com/Humanidealife/goldfishes_app" target="_blank">Voici le code open source sur Github</a>
 
-  ### [5. Jeu Snack]
-
-- **Description :** Jeu rétro contruit avec Javascript
-- **Technologies utilisées :**
-  - Javascript
-  - HTML
-  - VSCode
-- **Lien vers le projet :**
-  - <a href="https://github.com/Humanidealife/snack-js" target="_blank">Voici le code open source sur Github</a>
-
 ## Contact
 
 - 📧 Adresse e-mail : wangqianlf@live.com
