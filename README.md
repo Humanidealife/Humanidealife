@@ -15,7 +15,7 @@ Applications Logicielles des SI (Bac+5) **École d'ingénieurs CESI**<img alt="C
   - Diplômé en Concepteur - développeur d'applications web (Bac+3) **Le Wagon** <img alt="un wagon blanc sur un fond rouge" src="https://d26jy9fbi4q9wx.cloudfront.net/assets/logo-ae2beeecce25d711f577b08deb9adfc6c02b673ed106b8d6c3da0f1721d9da33.svg" width="25" height="25">
 - 💻 Compétences :
   - Front-end : **JavaScript(React), HTML, CSS, SCSS, JSON, React, Next.js**
-  - Back-end : **C# (.NET, ASP.NET Core), Java, Ruby, TypeScript(Node.js), SQL, PostgreSQL, XML, API**
+  - Back-end : **C# (.NET, ASP.NET Core, EF Core), Java, Ruby, TypeScript(Node.js), SQL, PostgreSQL, XML, API**
 - 🛠️ Outils techniques : **VSCode, Visual Studio, Docker, Git, GitHub, GitLab, Netlify**
 - 🌱 Toujours en apprentissage et ouvert à l'acquisition de nouvelles compétences
 - 👩‍💻 Expériences dans la création d'applications web et de sites dynamiques
